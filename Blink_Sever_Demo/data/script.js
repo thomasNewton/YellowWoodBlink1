@@ -1,4 +1,4 @@
-// Complete project details: https://randomnerdtutorials.com/esp32-web-server-websocket-sliders/
+
 
 var gateway = `ws://${window.location.hostname}/ws`;
 var websocket;
